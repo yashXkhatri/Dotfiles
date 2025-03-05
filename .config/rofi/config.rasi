@@ -1,0 +1,13 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "hack 10";
+ combi-modi: "window,drun,ssh";
+ }
+//@theme "~/.config/rofi/themes/dtos-center.rasi"
+
+
+//@theme "/usr/share/rofi/themes/Monokai.rasi"
+
+//@theme "/usr/share/rofi/themes/Monokai.rasi"
+
+@theme "/home/yash/.config/rofi/themes/dtos-center.rasi"
