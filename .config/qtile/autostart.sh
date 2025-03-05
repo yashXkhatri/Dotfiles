@@ -10,7 +10,7 @@ nm-applet &
 blueman-applet &
 #"$HOME"/.screenlayout/layout.sh &
 setxkbmap -option ctrl:nocaps &
-/usr/bin/pipewire & /usr/bin/pipewire-pulse & /usr/bin/wireplumber &
+#/usr/bin/pipewire & /usr/bin/pipewire-pulse & /usr/bin/wireplumber &
 #sleep 1
 #conky -c "$HOME"/.config/conky/qtile/01/"$COLORSCHEME".conf || echo "Couldn't start conky."
 
