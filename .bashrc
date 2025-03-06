@@ -25,6 +25,9 @@ export MANPAGER="nvim +Man!"
 ### "less" as manpager
 # export MANPAGER="less"
 
+# open fzf selected file in vim
+alias f='vim $(fzf)'
+
 ###  Qt5ct
 export QT_QPA_PLATFORMTHEME=qt5ct
 
