@@ -8,7 +8,7 @@
 - **Rofi** as my run launcher
 - **Geany** as my gui text editor
 - **Neovim/nvchad** as my tui text editor
-- **Qt5ct/Qt5styleplugins** to unify gtk and qt application themes
+- **Qt5ct/Qt5styleplugins** to unify gtk and qt application theme
 - **Keepassxc** as my password manager
 - **Ungoogled Chromium** as my Web borwser
 - **Ristretto** as my file viewer
