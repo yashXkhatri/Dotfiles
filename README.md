@@ -13,3 +13,6 @@
 - **Ungoogled Chromium** as my Web borwser
 - **Ristretto** as my file viewer
 - **Parole** as my video player
+- **ly** as my login manager
+- **dunst** as my notification manager
+- And some other packages that you can find in [arch-packages.sh]
