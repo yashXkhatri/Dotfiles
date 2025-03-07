@@ -34,6 +34,7 @@ import colors
 mod = "mod4"
 terminal = "alacritty"
 browser = "chromium"
+filemanager = "thunar"
 
 # Allows you to input a name when adding treetab section.
 @lazy.layout.function
@@ -47,8 +48,8 @@ keys = [
 	Key([mod], "space", lazy.spawn("rofi -show drun"), desc="Run Launcher"),
     Key([mod, "shift"], "c", lazy.window.kill(), desc="Kill focused window"),
     Key([mod], "w", lazy.spawn(browser), desc='Web browser'),
+    Key([mod], "e", lazy.spawn(filemanager), desc="File Manager"),
     Key([mod], "b", lazy.hide_show_bar(position='all'), desc="Toggles the bar to show/hide"),
-
 
     # A list of available commands that can be bound to keys can be found
     # at https://docs.qtile.org/en/latest/manual/config/lazy.html
