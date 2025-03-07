@@ -15,4 +15,4 @@
 - **Parole** as my video player
 - **ly** as my login manager
 - **dunst** as my notification manager
-- And some other packages that you can find in [arch-packages.sh]
+- And some other packages that you can find in [arch-packages.sh] (https://github.com/yashXkhatri/Dotfiles/blob/main/arch-packages.sh)
