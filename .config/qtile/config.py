@@ -282,6 +282,11 @@ def init_widgets_list():
                  padding = 2,
                  fontsize = 14
                  ),
+        widget.CurrentLayoutIcon(
+                 foreground = colors[1],
+                 padding = 4,
+                 scale = 0.5
+                 ),
         widget.CurrentLayout(
                  foreground = colors[1],
                  padding = 5
