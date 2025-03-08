@@ -342,6 +342,7 @@ def init_widgets_list():
                  foreground = colors[4],
                  padding = 6, 
                  format = ' Bat: {percent:2.0%}',
+                 full_short_text = '󱟢 Full',
                  ),
         widget.Clock(
                  foreground = colors[8],
